@@ -8,6 +8,10 @@
 * Integer
 * Print
 * While Loops
+
+
+![image test](https://picsum.photos/200/300)
+
 ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](https://www.google.com/search?q=dice&safe=active&sxsrf=ALeKk003zSdLkS03FqG0ScQm1BOHPc2p-Q:1591794970378&source=lnms&tbm=isch&sa=X&ved=2ahUKEwicx46uqvfpAhUXhlwK)
 
